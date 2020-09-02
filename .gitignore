@@ -1,0 +1,7 @@
+*.exe
+*.msi
+*.jar
+*.war
+*.ear
+*.log
+target/
